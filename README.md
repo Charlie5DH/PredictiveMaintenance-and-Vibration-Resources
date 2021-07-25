@@ -16,3 +16,4 @@ Papers and datasets for Vibration Analysis.
 - https://www.sciencedirect.com/science/article/pii/S2352340918314124?via%3Dihub
 - [Machine Learning-Based Unbalance Detection of a Rotating Shaft Using Vibration Data](https://arxiv.org/pdf/2005.12742v3.pdf)
 - [Learning to See the Vibration: A Neural Network for Vibration Frequency Prediction](https://www.mdpi.com/1424-8220/18/8/2530)
+- [Fault detection analysis in rolling element bearing: A review](https://www.sciencedirect.com/science/article/pii/S221478531730250X)
