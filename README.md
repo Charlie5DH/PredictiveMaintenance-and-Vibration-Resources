@@ -11,7 +11,8 @@ Papers and datasets for Vibration Analysis.
 - [CONDITION MONITORING FOR HANDPUMPS - VIBRATION DATA](https://ieee-dataport.org/open-access/condition-monitoring-handpumps-vibration-data)
 - [Unbalance Classification Using Vibration Data (Vibration Measurements on a Rotating Shaft at Different Unbalance Strengths)](https://paperswithcode.com/dataset/unbalance-classification-using-vibration-data): This dataset contains vibration data recorded on a rotating drive train. This drive train consists of an electronically commutated DC motor and a shaft driven by it, which passes through a roller bearing.
 
-## Papers (Related papers can be found in the same dataset link.)
+## Papers (Related papers to the dasets can be found in the same dataset link.)
 
 - https://www.sciencedirect.com/science/article/pii/S2352340918314124?via%3Dihub
 - [Machine Learning-Based Unbalance Detection of a Rotating Shaft Using Vibration Data](https://arxiv.org/pdf/2005.12742v3.pdf)
+- [Learning to See the Vibration: A Neural Network for Vibration Frequency Prediction](https://www.mdpi.com/1424-8220/18/8/2530)
