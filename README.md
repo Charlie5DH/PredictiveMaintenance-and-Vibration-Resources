@@ -12,4 +12,3 @@ Papers and datasets for Vibration Analysis
 ## Papers
 - https://www.sciencedirect.com/science/article/pii/S2352340918314124?via%3Dihub
 - [Machine Learning-Based Unbalance Detection of a Rotating Shaft Using Vibration Data](https://arxiv.org/pdf/2005.12742v3.pdf)
-- 
