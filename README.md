@@ -21,5 +21,5 @@ Papers and datasets for Vibration Analysis.
 ## Other Resources
 - [An Animated Introduction to Vibration Analysis by Mobius Institute](https://www.youtube.com/watch?v=Vj1xmze3GlE&ab_channel=MobiusInstitute) 📹
 - [Vibration Analysis - Bearing Failure Analysis by Mobius Institute](https://www.youtube.com/watch?v=dEn2Qvh_qjc&list=RDCMUCPGma5yqgDzxwdhBw77OweA&index=2&ab_channel=MobiusInstitute) 📹
-- [Kaggle Notebook](https://www.kaggle.com/yasirabd/nasa-bearing-feature-extraction) 📓
+- [NASA Bearing Feature Extraction](https://www.kaggle.com/yasirabd/nasa-bearing-feature-extraction) 📓
 - [IMS Bearing Dataset: Extracting Failure modes from vibration signals](http://mkalikatzarakis.eu/wp-content/uploads/2018/12/IMS_dset.html) 📓
