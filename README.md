@@ -24,3 +24,4 @@ Papers and datasets for Vibration Analysis. Feel free to suggest more 😉
 - [NASA Bearing Feature Extraction](https://www.kaggle.com/yasirabd/nasa-bearing-feature-extraction) 📓
 - [IMS Bearing Dataset: Extracting Failure modes from vibration signals](http://mkalikatzarakis.eu/wp-content/uploads/2018/12/IMS_dset.html) 📓
 - [Machine Learning Based Unbalance Detection of a Rotating Shaft Using Vibration Data](https://github.com/deepinsights-analytica/ieee-etfa2020-paper) :octocat:
+- [Vibration in Cooling Towers](http://www.vibration.org/Presentation/Vibration%20Of%20Cooling%20Tower%20Fans%202015,%20Part%201.pdf) ⬇️
