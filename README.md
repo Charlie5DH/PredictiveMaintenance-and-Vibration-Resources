@@ -1,4 +1,4 @@
-# Vibration-Datasets-and-Papers 
+# Free Vibration Resources 
 Papers and datasets for Vibration Analysis. Feel free to suggest more 😉
 
 ## Link to datasets
