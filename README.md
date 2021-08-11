@@ -1,5 +1,5 @@
 # Free Vibration Resources 
-Papers, datasets and other resources for Vibration Analysis. Feel free to suggest more 😉
+Papers, datasets and other resources for Vibration Analysis.
 
 ## Link to datasets
 
@@ -27,3 +27,6 @@ Papers, datasets and other resources for Vibration Analysis. Feel free to sugges
 - [Vibration in Cooling Towers](http://www.vibration.org/Presentation/Vibration%20Of%20Cooling%20Tower%20Fans%202015,%20Part%201.pdf) ⬇️
 - [Vibration Analysis: FFT, PSD, and Spectrogram Basics [Free Download, Notebook, Examples]](https://blog.endaq.com/vibration-analysis-fft-psd-and-spectrogram)
 - [https://blog.endaq.com/top-vibration-metrics-to-monitor-how-to-calculate-them](https://blog.endaq.com/top-vibration-metrics-to-monitor-how-to-calculate-them)
+
+# Predictive Maintenance
+
