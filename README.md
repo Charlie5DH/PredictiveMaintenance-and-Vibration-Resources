@@ -16,6 +16,7 @@ Papers, datasets and other resources for Vibration Analysis.
 ## Papers (Related papers to the dasets can be found in the same dataset link.)
 - [A Review of Feature Extraction Methods in Vibration...MDPI](https://www.mdpi.com/2075-1702/5/4/21/pdf#:~:text=In%20particular%2C%20skewness%20is%20used,a%20skewness%20value%20of%20zero.) ⬇️
 - https://www.sciencedirect.com/science/article/pii/S2352340918314124?via%3Dihub
+- [Vibration Analysis Techniques included in the Predictive Maintenance Plan of a Paper Machine](https://academica-e.unavarra.es/xmlui/bitstream/2454/33716/1/TFG_IbarrolaGutierrez_Paula.pdf)
 - [Machine Learning-Based Unbalance Detection of a Rotating Shaft Using Vibration Data](https://arxiv.org/pdf/2005.12742v3.pdf)
 - [Learning to See the Vibration: A Neural Network for Vibration Frequency Prediction](https://www.mdpi.com/1424-8220/18/8/2530)
 - [Fault detection analysis in rolling element bearing: A review](https://www.sciencedirect.com/science/article/pii/S221478531730250X)
