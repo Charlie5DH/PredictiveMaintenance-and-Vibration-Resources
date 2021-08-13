@@ -5,6 +5,7 @@ Papers, datasets and other resources for Vibration Analysis.
 
 - [NASA Bearing Dataset](https://www.kaggle.com/vinayak123tyagi/bearing-dataset) (6Gb)
 - [Another NASA Bearing Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) (1Gb)
+- [Bearing Data Center. Seeded Fault Test Data](https://csegroups.case.edu/bearingdatacenter/pages/download-data-file)
 - [Vibration of rolling bearings under widely varying speed conditions](https://data.mendeley.com/datasets/6k6fbzc6vv/1]): This dataset contains observations of vibration of test stand under widely varying speed conditions.
 - [Bearing Vibration Data under Time-varying Rotational Speed Conditions](https://data.mendeley.com/datasets/v43hmbwxpm/1): The data contain vibration signals collected from bearings of different health conditions under time-varying rotational speed conditions. 
 - [Planetary gearbox vibration data](https://researchdata.up.ac.za/articles/dataset/Planetary_gearbox_vibration_data/13476525)
