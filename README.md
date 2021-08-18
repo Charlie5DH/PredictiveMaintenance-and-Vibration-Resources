@@ -31,4 +31,4 @@ Papers, datasets and other resources for Vibration Analysis.
 - [https://blog.endaq.com/top-vibration-metrics-to-monitor-how-to-calculate-them](https://blog.endaq.com/top-vibration-metrics-to-monitor-how-to-calculate-them)
 
 # Predictive Maintenance
-
+[Predictive Maintenance. Remaining Useful Life Estimation](https://www.youtube.com/watch?v=Dd_4rbWYgI4&ab_channel=MATLAB) :film_strip:
