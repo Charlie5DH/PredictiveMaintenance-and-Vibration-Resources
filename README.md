@@ -32,3 +32,4 @@ Papers, datasets and other resources for Vibration Analysis.
 
 # Predictive Maintenance
 [Predictive Maintenance. Remaining Useful Life Estimation](https://www.youtube.com/watch?v=Dd_4rbWYgI4&ab_channel=MATLAB) :film_strip:
+[Predictive Maintenance. How to Use Diagnostic Feature Designer For Feature Exraction](https://www.youtube.com/watch?v=oDd7aEmRNpI&ab_channel=MATLAB) :film_strip:
