@@ -5,7 +5,7 @@ Papers, datasets and other resources for Vibration Analysis.
 
 - [MAFAULDA. Machinery Fault Database [Online]](http://www02.smt.ufrj.br/~offshore/mfs/page_01.html) (13Gb)
 - [NASA Bearing Dataset](https://www.kaggle.com/vinayak123tyagi/bearing-dataset) (6Gb):
--   Example of this dataset in a notebook
+- - Example of this dataset in a notebook
 - [Another NASA Bearing Dataset](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) (1Gb)
 - [Bearing Data Center. Seeded Fault Test Data](https://csegroups.case.edu/bearingdatacenter/pages/download-data-file)
 - [Vibration of rolling bearings under widely varying speed conditions](https://data.mendeley.com/datasets/6k6fbzc6vv/1]): This dataset contains observations of vibration of test stand under widely varying speed conditions.
