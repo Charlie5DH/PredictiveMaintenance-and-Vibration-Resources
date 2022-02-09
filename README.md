@@ -13,7 +13,7 @@ Papers, datasets and other resources for Vibration Analysis.
 - [Planetary gearbox vibration data](https://researchdata.up.ac.za/articles/dataset/Planetary_gearbox_vibration_data/13476525)
 - [Condition Monitoring for Handpumps - Vibration Data](https://ieee-dataport.org/open-access/condition-monitoring-handpumps-vibration-data)
 - [Unbalance Classification Using Vibration Data (Vibration Measurements on a Rotating Shaft at Different Unbalance Strengths)](https://paperswithcode.com/dataset/unbalance-classification-using-vibration-data): This dataset contains vibration data recorded on a rotating drive train. This drive train consists of an electronically commutated DC motor and a shaft driven by it, which passes through a roller bearing.
-- [AI4I 2020 Predictive Maintenance Dataset Data Set](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset)
+- [AI4I 2020 Predictive Maintenance Dataset Data Set](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset): The dataset consists of 10 000 data points stored as rows with 14 features in columns, it is also avaiilable at https://www.kaggle.com/shivamb/machine-predictive-maintenance-classification
 
 ## Papers (Related papers to the dasets can be found in the same dataset link.)
 - [A Review of Feature Extraction Methods in Vibration...MDPI](https://www.mdpi.com/2075-1702/5/4/21/pdf#:~:text=In%20particular%2C%20skewness%20is%20used,a%20skewness%20value%20of%20zero.) ⬇️
