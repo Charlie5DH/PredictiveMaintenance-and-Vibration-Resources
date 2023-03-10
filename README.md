@@ -1,4 +1,4 @@
-# Free Vibration Resources 
+# Free Vibration Resources and PDm resources
 Papers, datasets and other resources for Vibration Analysis.
 
 ## Link to datasets
