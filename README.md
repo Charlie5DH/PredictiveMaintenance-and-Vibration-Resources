@@ -1,6 +1,8 @@
 # Free Vibration Resources and PDm resources
 Papers, datasets and other resources for Vibration Analysis.
 
+I accept contributions to this Repo
+
 ## Link to datasets
 
 - [MAFAULDA. Machinery Fault Database [Online]](http://www02.smt.ufrj.br/~offshore/mfs/page_01.html) (13Gb)
