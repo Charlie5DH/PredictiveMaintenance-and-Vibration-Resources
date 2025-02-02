@@ -45,3 +45,4 @@ Papers, datasets and other resources for Vibration Analysis.
 
 ## Repos
 - https://github.com/umbertogriffo/Predictive-Maintenance-using-LSTM
+- https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine
