@@ -37,6 +37,7 @@ Papers, datasets and other resources for Vibration Analysis.
 - [Vibration in Cooling Towers](http://www.vibration.org/Presentation/Vibration%20Of%20Cooling%20Tower%20Fans%202015,%20Part%201.pdf) ⬇️
 - [Vibration Analysis: FFT, PSD, and Spectrogram Basics [Free Download, Notebook, Examples]](https://blog.endaq.com/vibration-analysis-fft-psd-and-spectrogram)
 - [https://blog.endaq.com/top-vibration-metrics-to-monitor-how-to-calculate-them](https://blog.endaq.com/top-vibration-metrics-to-monitor-how-to-calculate-them)
+- [Deep Learning Strategies for Predictive Maintenance](https://medium.com/@albertomoccardi/deep-learning-strategies-for-predictive-maintenance-9f1f40d8958a)
 
 # Predictive Maintenance
 - [Predictive Maintenance. Remaining Useful Life Estimation](https://www.youtube.com/watch?v=Dd_4rbWYgI4&ab_channel=MATLAB) :film_strip:
